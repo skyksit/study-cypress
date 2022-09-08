@@ -1,0 +1,16 @@
+{
+  "name": "study-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --record --key 7d5044e2-7d94-475a-959c-c21a8b4340d5"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^10.7.0"
+  }
+}
